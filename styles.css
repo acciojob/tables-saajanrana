@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+table {
+	text-align: center;
+}
+
+.cell {
+	color: white;
+}
+
+th {
+	border: none;
+}
